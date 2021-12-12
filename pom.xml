@@ -5,7 +5,7 @@
   <artifactId>vechicle_tracking</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>vechicle_tracking</name>
+  <name>docker-jenkins-integration-sample</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
